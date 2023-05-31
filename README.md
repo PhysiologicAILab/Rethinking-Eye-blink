@@ -2,6 +2,8 @@
 #### Assessing Task Difficulty through Physiological Representation of Spontaneous Blinking
 ##### Author: Dr. Youngjun Cho (UCL Computer Science)
 Contact us Physiological Computing and Artificial Intelligence group (http://youngjuncho.com)
+
+Original page: https://github.com/deepneuroscience/Rethinking-Eye-blink
 <br/>
 <br/>
 ### Before starting
